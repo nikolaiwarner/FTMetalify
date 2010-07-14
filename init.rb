@@ -1,13 +1,13 @@
 ViewExtender.register(
   'dashboard/javascripts',
   :bottom,
-  'dashboard/javascripts/rh_metalify_scripts',
+  'dashboard/javascripts/FTMetalify_scripts',
   :partial => 'scripts/metalify'
 )
 
 ViewExtender.register(
   'dashboard/stylesheets',
   :bottom,
-  'dashboard/stylesheets/rh_metalify_scripts',
+  'dashboard/stylesheets/FTMetalify_scripts',
   :partial => 'styles/metalify'
 )

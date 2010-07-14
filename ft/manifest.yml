@@ -1,0 +1,8 @@
+filename:     FTMetalify
+title:        "Metalify !"
+description:  "why not melt some faces?"
+version:            1.0
+authors:            ['Nikolai Warner']
+min_ft_version:     0.3.0
+homepage:           'http://fineslacks.com'
+update_url:         ''
